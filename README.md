@@ -23,7 +23,7 @@ The design was created as part of my CAD portfolio to showcase **precision model
 ---
 
 ## 📸 Preview
-![Bottle Render](Bottle%20v1.png)
+<img width="1520" height="834" alt="Bottle v1" src="https://github.com/user-attachments/assets/a5b4c3c3-5e38-4b5b-a948-37cd741aa8df" />
 
 ---
 
