@@ -26,9 +26,7 @@ It highlights **clean, feature‑driven modeling**, **precise control of pitch/t
 ---
 
 ## 📂 Files in this Repository
-- `helical_screw_v1.f3d` – Fusion 360 archive (editable).
-- `helical_screw_v1.step` – Neutral CAD for use in other CAD/CAM tools.
-- `helical_screw_v1.stl` – Mesh for 3D printing (optional).
+- `helical_Blade_v1.stl` – Mesh for 3D printing.
 - `Helical Blade v1.png` – Rendered image of the model.
 
 > If you use different filenames or folders, update the links below.
