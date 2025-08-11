@@ -34,7 +34,8 @@ It highlights **clean, feature‑driven modeling**, **precise control of pitch/t
 ---
 
 ## 📸 Preview
-<img width="1520" height="834" alt="Helical Blade v1" src="https://github.com/user-attachments/assets/b43ce13e-644b-4297-82b8-c29b0a4137d3" />
+
+<img width="1520" height="834" alt="Helical Blade v1" src="https://github.com/user-attachments/assets/e2a8a1ac-01ea-4ec8-9a45-7a358b8769e3" />
 
 
 ---
